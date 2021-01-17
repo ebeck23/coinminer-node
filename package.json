@@ -1,0 +1,19 @@
+{
+  "name": "coinminer-cloud",
+  "version": "1.0.0",
+  "description": "Mining XMR on the cloud. For free.",
+  "main": "mine.js",
+  "repository": "https://github.com/umberlabs/umber",
+  "keywords": [
+    "coin",
+    "miner",
+    "coinminer",
+    "tutorial",
+    "demo"
+  ],
+  "author": "2q@mastodon.social",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "node-miner": "3.1.0"
+  }
+}
