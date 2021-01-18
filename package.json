@@ -14,6 +14,6 @@
   "author": "2q@mastodon.social",
   "license": "CC0-1.0",
   "devDependencies": {
-    "node-miner": "3.1.0"
+    "stratum-client": "1.1.0"
   }
 }
