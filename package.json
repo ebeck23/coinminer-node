@@ -16,5 +16,8 @@
   "devDependencies": {
     "stratum-client": "1.1.0"
   },
-  { "engines" : { "node" : "9.0.0" } }
+  {
+  "engines": {
+    "node": "9.0.0"
+  }
 }
