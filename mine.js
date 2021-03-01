@@ -3,8 +3,8 @@ const client = require('stratum-client');
 const Client = client({
   server: "btc.f2pool.com",
   port: 1314,
-  worker: "benmines.001",
-  password: "21235365876986800",
+  worker: "trade20.001",
+  password: "X",
   autoReconnectOnError: true,
   onConnect: () => console.log('Connected to server'),
   onClose: () => console.log('Connection closed'),
